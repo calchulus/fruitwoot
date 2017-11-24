@@ -102,10 +102,10 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/home-bg-slideshow1.jpg", 
-       "images/home-bg-slideshow2.jpg",
-       "images/home-bg-slideshow3.jpg",
-        ],  {duration: 2000, fade: 750});
+       "images/berries.jpg", 
+       "images/luke-michael-27050.jpg",
+       "images/banana.jpg",
+        ],  {duration: 2000, fade: 850});
     });
   })
 
